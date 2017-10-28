@@ -1,3 +1,7 @@
-## 相关说明
+learn-typescript
 
-- https://zhongsp.gitbooks.io/typescript-handbook/content/doc/handbook/tutorials/TypeScript%20in%205%20minutes.html
+
+### 学习地址
+- http://www.runoob.com/manual/gitbook/TypeScript/_book/
+- https://www.gitbook.com/book/zhongsp/typescript-handbook/details
+- https://zhongsp.gitbooks.io/typescript-handbook/content/doc/handbook/tutorials/index.html
